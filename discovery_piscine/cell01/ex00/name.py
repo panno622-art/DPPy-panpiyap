@@ -1,1 +1,0 @@
-print("Panno Piyapitakwong")
